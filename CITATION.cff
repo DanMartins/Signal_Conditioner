@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: "Hardware development to interface with analog signals for dynamic control systems [Remote Control Laboratory with AI Based on the Internet of Things]"
+message: "If you use this hardware design, please cite it as below."
+type: software
+authors:
+- family-names: "Martins"
+  given-names: "Danilo"
+  affiliation: "Escola Politécnica da USP"
+  orcid: "https://orcid.org/0000-0002-3035-7137"
+version: sig_con_R3_2024-01-21
+date-released: 2024-01-21
+url: "https://github.com/iotctrl/iotctrl-results"
+abstract: >
+  This repository contains the complete hardware design files for the
+  IoT Control Board developed using KiCad. It includes schematic files,
+  PCB layout, bill of materials (BOM), and fabrication-ready Gerber files.
+  The board supports real-time control experiments and integration
+  with laboratory control systems.
+
+keywords:
+  - hardware design
+  - PCB
+  - KiCad
+  - control systems
+  - IoT
+
+license: "MIT"
